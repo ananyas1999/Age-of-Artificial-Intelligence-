@@ -1,5 +1,8 @@
 # Age-of-Artificial-Intelligence-
 
+https://drive.google.com/file/d/1jNeYtOvy89SPh7p3FRcTXSTn8MJolbS1/view?usp=sharing
+
+
 This individual assignment explores the dual perspectives on Artificial Intelligence — its potential as a revolutionary tool and the associated risks that could disrupt societal and economic structures. Drawing insights from Bill Gates’ optimistic vision and McKinsey’s 2024 report on generative AI, the work analyzes both the promise and pitfalls of AI advancements.
 
 A strong focus is placed on AI in education, with real-world use cases like personalized learning assistants and AI-driven administrative tools. The assignment emphasizes the importance of responsible AI development, ethical considerations, and data-driven innovation for meaningful transformation in educational environments.
