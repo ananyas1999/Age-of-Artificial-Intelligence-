@@ -57,7 +57,6 @@ AI holds massive potential to bridge educational gaps by:
 
 **Ananya Srinath Achar**  
 MS Information Technology and Management | UTD  
-📧 axa220264@utdallas.edu
 
 ---
 
